@@ -1,0 +1,14 @@
+# Build & Binary Outputs
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+
+# Security & Config
+*.env
+
+# System Files
+.DS_Store
+Thumbs.db
